@@ -58,6 +58,13 @@ I'm **Yunseong Oh** — Backend Engineer at **Wishket AIDP** 🚀
 ### ⏱ WakaTime (Coding Activity)
 <!-- WakaTime 계정 연동 후 표시됨 -->
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
