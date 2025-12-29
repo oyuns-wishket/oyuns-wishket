@@ -58,7 +58,7 @@ I'm **Yunseong Oh** — Backend Engineer at **Wishket AIDP** 🚀
 ### ⏱ WakaTime (Coding Activity)
 <!-- WakaTime 계정 연동 후 표시됨 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@5a1cfdf9-7af5-4e20-a56b-9feb66c463b3&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@oyunswishket&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
