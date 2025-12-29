@@ -65,7 +65,7 @@ I'm **Yunseong Oh** — Backend Engineer at **Wishket AIDP** 🚀
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyuns-wishket&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://metrics.lecoq.io/oyuns-wishket?template=classic&config.timezone=Asia%2FSeoul" />
 </p>
 
 <p align="center">
