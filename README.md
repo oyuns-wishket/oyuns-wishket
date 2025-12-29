@@ -6,9 +6,6 @@ I'm **Yunseong Oh** — Backend Engineer at **Wishket AIDP** 🚀
 
 ---
 
-<details open>
-<summary>🇰🇷 한국어</summary>
-
 ### 🧠 소개
 - 💼 **위시켓 AIDP (AI Delivery Platform)** 백엔드 개발자
 - 🤖 중소·중견 기업을 위한 **B2B AI 서비스 도입 표준**을 만드는 팀에서 일하고 있습니다
@@ -55,50 +52,6 @@ I'm **Yunseong Oh** — Backend Engineer at **Wishket AIDP** 🚀
 - 🔹 AI 기반 업무 자동화 설계
 - 🔹 ERP / 내부 시스템과 AI를 연결하는 API & 데이터 구조 설계
 - 🔹 실무에서 바로 쓰이는 **B2B AI 서비스 아키텍처** 구현
-
-</details>
-
----
-
-<details>
-<summary>🇺🇸 English</summary>
-
-### 🧠 About Me
-- 💼 Backend Engineer at **Wishket AIDP (AI Delivery Platform)**
-- 🤖 Working on building a **standardized B2B AI adoption platform** for SMBs
-- 🏗 Designing backend architectures that connect **AI, data, and enterprise systems**
-- 🎯 Passionate about **automation, scalability, and domain-driven design**
-
-🔗 **AIDP Service**
-👉 https://aidp.wishket.com/
-
----
-
-### 🏢 Company & Team Mission
-- **Company Mission**  
-  - *Making the way we work happier*
-- **AIDP Team Goal**  
-  - Establishing a **practical standard for AI adoption** in small and mid-sized businesses
-  - Building an end-to-end **AI Delivery Platform** from consulting to operation
-
----
-
-### ✨ What I’m Working On
-- 🔹 AI-powered workflow automation backend
-- 🔹 API & data architecture connecting AI with enterprise systems
-- 🔹 Production-ready **B2B AI service platforms**
-
-</details>
-
----
-
-### 📌 Pinned Projects
-> Selected projects that represent my work and interests  
-📍 *(Use GitHub → Customize profile → Pin repositories)*
-
-- ⭐ **AIDP Backend Modules**
-- ⭐ **Automation / Integration Services**
-- ⭐ **Side Projects & Architecture Experiments**
 
 ---
 
