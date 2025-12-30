@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Yunseong Oh** — Backend Engineer at **Wishket AIDP** 🚀  
+I'm **Yunseong Oh** — Engineer at **Wishket AIDP** 🚀  
 
 > **“일하는 방식을 더 행복하게”**  
 > Making work smarter, simpler, and happier.
